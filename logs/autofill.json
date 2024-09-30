@@ -1,0 +1,1 @@
+{"autofill": false, "login": {"username": null, "password": null, "telegram": null}, "frank": {"brain": "standard", "self_confidence": 1, "mode_big_money": false, "quick_start": false}, "bets": {"set": 0.0, "attempts_max": 3, "attempts_min": 3, "mins": false, "max": 550.0, "stop": 1.5, "condition": 1.1, "safety": 1.0}, "session": {"timer": false}, "alerts": {"app_open": false}}
