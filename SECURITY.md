@@ -1,0 +1,1 @@
+Gambling involves risk. Please only gamble with funds that you can comfortably afford to lose.
